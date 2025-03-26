@@ -1,0 +1,12 @@
+.genrebtnborder {
+  border: 1.2px solid rgb(96, 4, 149);
+}
+
+.gradient-border {
+  padding: 20px;
+  border-radius: 15px;
+  background: linear-gradient(45deg, #c99ea4, #81dc31);
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  border: 10px solid transparent;
+}
