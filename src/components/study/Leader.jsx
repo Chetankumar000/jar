@@ -3,9 +3,6 @@ import { ChevronDown } from "lucide-react";
 
 // Importing images
 import music from "../Clubroom/music.png";
-import que from "../Clubroom/qus.png";
-import loveicon from "../Clubroom/loveicon.png";
-import plusicon from "../Clubroom/plusicon.png";
 import manIcon from "../ClubIco/manlogo.png";
 
 import pythonlogo2 from "../ClubIco/pythonlogo2.png";

@@ -1,20 +1,17 @@
 import React, { useState } from "react";
 import { ChevronDown, Search } from "lucide-react";
-
-import nextbtnblue from "../ClubIco/nextbtnblue.png";
 import footballIcon from "../ClubIco/Football.png";
-import badmintonIcon from "../ClubIco/badminton.png";
-import volleyballIcon from "../ClubIco/volleyball.png";
-import cricketIcon from "../ClubIco/cricket.png";
-import tennisIcon from "../ClubIco/tennis.png";
-import chessIcon from "../ClubIco/chess.png";
+import badmintonIcon from "../ClubIco/Badminton.png";
+import volleyballIcon from "../ClubIco/Volleyball.png";
+import cricketIcon from "../ClubIco/Cricket.png";
+import tennisIcon from "../ClubIco/Tennis.png";
+import chessIcon from "../ClubIco/Chess.png";
 import eyeIcon from "../ClubIco/icons8-eye.gif";
 import LeftBlue from "../ClubIco/Left-Blue.svg";
 import LeftGreen from "../ClubIco/Left-Green.svg";
 import LeftWhite from "../ClubIco/Left-White.svg";
 import LeftRed from "../ClubIco/Left-Red.svg";
 import LeftMaroon from "../ClubIco/Left-Maroon.svg";
-
 import RightBlue from "../ClubIco/Right-Blue.svg";
 import RightGreen from "../ClubIco/Right-Green.svg";
 import RightWhite from "../ClubIco/Right-White.svg";
